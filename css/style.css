@@ -1,0 +1,113 @@
+
+  .one{
+    position: relative;
+    margin-top: 160px;
+    margin-left: 300px;
+  }
+  .left{
+    position: absolute;
+    height: 450px;
+    width: 245px;
+    left: 10px;
+    background-color:#FF616D;
+  }
+  .trip{
+    padding-top: 40px;
+    padding-left: 40px;
+  }
+  .title1{
+    padding-top: 20px;
+    padding-left: 40px;
+    font-size: 40px;
+    font-family:'Big Shoulders Stencil Display', cursive;
+    color: black;
+  }
+  .text1{
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family:'Yellowtail', cursive;
+    font-size:20px;
+    color: black;
+  }
+  .key1{
+      background-color:#F0D9E7;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      text-align:center;
+      font-size: 13px;
+      padding: 8px;
+      width: 150px;
+      margin: 5px;
+      margin-left: 30px;
+  }
+  .middle{
+    background-color:#E99497;
+    height: 450px;
+    width: 245px;
+    position: absolute;
+    left: 255px;
+  }
+  .vacation{
+    padding-left:40px;
+    padding-top: 40px;
+  }
+  .title2{
+    padding-left: 40px;
+    padding-top: 30px;
+    color:black;
+    font-family:'Big Shoulders Stencil Display', cursive;
+    font-size: 30px;
+    
+  }
+  .text2{
+    font-family:'Yellowtail', cursive;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: black;
+  }
+  .key2{
+      background-color:#F0D9E7;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      text-align: center;
+      font-size: 13px;
+      padding: 8px;
+      width: 150px;
+      margin-left: 30px;
+  }
+  .right{
+    background-color:#F4C7AB;
+    height: 450px;
+    width: 245px;
+    position: absolute;
+    left: 500px;    
+  
+  }
+  .luxury{
+    padding-left: 40px;
+    padding-top: 40px;
+  }
+  .title3{
+    padding-left: 40px;
+    padding-top: 30px;
+    color: black;
+    font-family:'Big Shoulders Stencil Display', cursive;
+    font-size: 30px;
+  }
+  .text3{
+    font-family:'Yellowtail', cursive;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: black;
+  }
+  .key3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 13px;
+    padding: 8px;
+    width: 150px;
+    margin-left: 30px;
+    margin-top:26px;
+    background-color:#F0D9E7;
+  }
